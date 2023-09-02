@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm currently a B.Tech undergraduate student at University Visvesvaraya College of Engineering, Bangalore. 
-<br/>I am a full stack web developer. <br/>I'm looking for a job or internship opportunity on web development right now. 
+B.Tech undergraduate student at University Visvesvaraya College of Engineering, Bangalore. 
+<br/>Full stack web developer. <br/>Ex-Frontend Developer @ Rablo.In
 
 
 ## 🌐 Socials:
