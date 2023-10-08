@@ -20,6 +20,6 @@ B.Tech undergraduate student at University Visvesvaraya College of Engineering, 
 ![](https://github-contributor-stats.vercel.app/api?username=Gowtham4545&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gowtham4545&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gowtham4545&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
