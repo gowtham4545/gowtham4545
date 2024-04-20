@@ -1,6 +1,6 @@
 # 💫 About Me:
 B.Tech undergraduate student at University Visvesvaraya College of Engineering, Bangalore. 
-<br/>Software Engineer @ Juniper Networks. <br/>Ex-Frontend Developer @ Rablo.In
+<br/>Software Engineer Intern @ Juniper Networks. <br/>Ex-Frontend Developer @ Rablo.In
 
 
 ## 🌐 Socials:
