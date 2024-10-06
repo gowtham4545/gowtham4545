@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Gowtham!
 
 ## About Me
-I'm currently working as an **Associate SW Systems Engineer at Extreme Networks**. With a strong passion for software engineering and systems development, I thrive on solving complex problems and creating innovative solutions.
+I'm currently working as an **Software Engineer at Extreme Networks**. With a strong passion for software engineering and systems development, I thrive on solving complex problems and creating innovative solutions.
 
 Previously, I interned at **Juniper Networks**, where I gained valuable experience in network technology and software systems.
 
