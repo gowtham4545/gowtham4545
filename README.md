@@ -1,14 +1,17 @@
 # 👋 Hi there, I'm Gowtham!
 
 ## About Me
-I'm currently working as an **Software Engineer at Extreme Networks**. With a strong passion for software engineering and systems development, I thrive on solving complex problems and creating innovative solutions.
+I'm currently working as a **Software Engineer** at Extreme Networks.
+With a strong passion for software engineering and systems development, I thrive on solving complex problems and building innovative solutions.
 
-Previously, I interned at **Juniper Networks**, where I gained valuable experience in network technology and software systems.
+I'm also an active contributor to open-source projects, always exploring new technologies and interesting skills.
+<!-- Previously, I interned at **Juniper Networks**, where I gained valuable experience in network technology and software systems. -->
 
 ## 🛠️ Skills & Technologies
-- **Languages**: Python, Java, C++, Golang, JavaScript
-- **Frameworks**: React, Django, ExpressJS
-- **Tools**: Git, Docker, Kubernetes
+- Python, C++, Golang, JavaScript
+- React, Django, ExpressJS
+- Git, Docker, Kubernetes
+- WebRTC, Computer Vision, Machine Learning, gRPC
 <!-- - **Other**: Agile methodologies, DevOps practices -->
 
 <!-- # 💫 About Me:
@@ -24,6 +27,7 @@ Previously, I interned at **Juniper Networks**, where I gained valuable experien
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham4545/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swapism7@gmail.com)](mailto:gowthamgopi444@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=Codepen&logoColor=white&link=https://fswap.github.io/)](https://gowtham4545.vercel.app/)
+
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode)](https://leetcode.com/gowthamgopi444/) --> 
 <!-- [![Codeforces](https://img.shields.io/badge/Codeforces-black?logo=codeforces&logoColor=FFD400&color=4F81C1)](https://codeforces.com/profile/gowthamgopi444) -->
 <!--
@@ -45,4 +49,8 @@ Previously, I interned at **Juniper Networks**, where I gained valuable experien
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![An image of @gowtham4545's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gowtham4545)](https://holopin.io/@gowtham4545)
+<!-- [![An image of @gowtham4545's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gowtham4545)](https://holopin.io/@gowtham4545) -->
+## Major Projects
+- [Sign-to-Sound](https://github.com/gowtham4545/Project)
+- [Binary Brains](https://github.com/BinaryBrains-SG/Binary)
+- [Ascii-Art](https://github.com/zero-to-mastery/ascii-art/pulls?q=is%3Apr+author%3Agowtham4545+is%3Aclosed) (Open Source)
